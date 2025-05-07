@@ -56,9 +56,11 @@ nav {
     margin-left: 10px;
 }
 
+
 .logo-circle {
     width: 40px;
     height: 40px;
+    /*
     border-radius: 50%;
     background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
     display: flex;
@@ -67,7 +69,9 @@ nav {
     color: white;
     font-weight: bold;
     font-size: 20px;
+    */
 }
+
 
 .nav-links {
     display: flex;
