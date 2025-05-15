@@ -258,8 +258,8 @@ nav {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    margin-right: 15px;
-    background-color: #ddd;
+    margin-right: 25px;
+    padding-right: 10px;
 }
 
 .author-info h4 {
@@ -440,4 +440,13 @@ footer {
 
 .skip-link:focus {
     top: 0;
+}
+
+.perfil {
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    overflow: hidden;
 }
